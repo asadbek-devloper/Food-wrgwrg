@@ -1,0 +1,73 @@
+.features {
+  padding: 100px 0;
+  text-align: center;
+}
+
+.title > p {
+  color: #dc780b;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 3.2px;
+  text-transform: uppercase;
+  margin: 10px 0;
+}
+
+.title > h2 {
+  color: #150c01;
+  font-family: Philosopher;
+  font-size: 31.25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.features-card-itme {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.features-card-img {
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+  background-color: #8fa63232;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.features-card-title > h2 {
+  color: #150c01;
+  font-family: Philosopher;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px; /* 96% */
+  margin: 20px 0;
+}
+
+.features-card-title > p {
+  color: #150c01;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}
+
+.features-card {
+  margin: 80px 0 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

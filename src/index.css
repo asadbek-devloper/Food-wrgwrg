@@ -1,0 +1,29 @@
+@font-face {
+  font-family: Philosopher;
+  src: url(./assets/fonts/Philosopher-Regular.ttf);
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url(./assets/fonts/Roboto-Regular.ttf);
+}
+
+*,
+*:active,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  overflow-x: hidden;
+}

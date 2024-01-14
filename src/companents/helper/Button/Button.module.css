@@ -1,0 +1,24 @@
+.btn {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  border-radius: 5px;
+  background: none;
+  padding: 15px 30px;
+  border: none;
+  cursor: pointer;
+}
+
+.primary {
+  background-color: #dc780b;
+  color: #fff;
+}
+.white {
+  background-color: white;
+  color: #dc780b;
+  border-radius: 5px;
+  border: 1.5px solid #dc780b;
+}
